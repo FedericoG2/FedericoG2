@@ -1,10 +1,7 @@
 ### <div align="center">Full Stack Developer 🚀</div>  
-  
 
-⚡ Desarrollador Full Stack React / Node.js.   
-  
 
-🚀 Cuento con experiencia en el desarrollo de aplicaciones web completas, desde la creación de la interfaz de usuario hasta la implementación del servidor y la gestión de bases de datos.
+⚡ Cuento con experiencia en el desarrollo de aplicaciones web completas, desde la creación de la interfaz de usuario hasta la implementación del servidor y la gestión de bases de datos.
 
 
 💻 Tengo conocimientos en metodologías ágiles como Scrum y trabajo en equipo utilizando sistemas de control de versiones como Git.
