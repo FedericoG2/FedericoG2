@@ -5,7 +5,7 @@
 ⚡ Cuento con conocimientos en el desarrollo de aplicaciones web completas, desde la creación de la interfaz de usuario hasta la implementación del servidor y la gestión de bases de datos.
 
 
-💻 Tengo conocimientos en metodologías ágiles como Scrum y trabajo en equipo utilizando sistemas de control de versiones como Git.
+💻 Experiencia trabajando con metodologías ágiles como Scrum y trabajo en equipo utilizando sistemas de control de versiones como Git.
 
 
   
