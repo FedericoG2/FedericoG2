@@ -2,10 +2,10 @@
 ### <div align="center">Perfil 🚀</div>  
 
 
-⚡ Cuento con conocimientos en el desarrollo de aplicaciones web completas, desde la creación de la interfaz de usuario hasta la implementación del servidor y la gestión de bases de datos.
+💻 Soy Federico estudiante de la carrera Analista en sistemas y Full Stck Dev. Cuento con conocimientos en el desarrollo de aplicaciones web completas, desde la creación de la interfaz de usuario hasta la implementación del servidor y la gestión de bases de datos.
 
 
-💻 Experiencia trabajando con metodologías ágiles como Scrum y trabajo en equipo utilizando sistemas de control de versiones como Git.
+
 
 
   
