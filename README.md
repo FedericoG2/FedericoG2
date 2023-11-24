@@ -2,7 +2,7 @@
 ### <div align="center">Perfil 🚀</div>  
 
 
-💻 Soy Federico estudiante de la carrera Analista en Sistemas y Full Stack Developer. Cuento con conocimientos en el desarrollo de aplicaciones web completas, desde la creación de la interfaz de usuario hasta la implementación del servidor y la gestión de bases de datos.
+💻 Hola 👋! Soy Federico estudiante de la carrera Analista en Sistemas y Full Stack Developer. Cuento con conocimientos basicos en el desarrollo de aplicaciones web, con la capacidad de aportar desde la creación de una interfaz de usuario hasta la implementación de un servidor.
 
 
 
