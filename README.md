@@ -47,7 +47,7 @@ Soy Federico estudiante de desarrollo de software. En mi GitHub se encuentran re
 <div align="center">  
  <a href="#" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
  <a href="#" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
- <a href="#" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring boot" height="50" /></a> 
+ <a href="#" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/?size=80&id=A3Ulk2RcONKs&format=png" alt="Spring boot" height="50" /></a> 
 </div>
 
 </td></tr></table>  
