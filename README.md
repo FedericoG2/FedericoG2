@@ -4,7 +4,7 @@
 # Perfil 🚀
 ### 💻 ¡Hola 👋! 
 
-Soy Federico estudiante de desarrollo de software. En mi GitHub se encuentran repositorios con proyectos en los que he invertido tiempo y dedicación. 
+Soy Federico en mi GitHub se encuentran repositorios con proyectos en los que he invertido tiempo y dedicación. 
 
 
 
