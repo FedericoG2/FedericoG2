@@ -11,7 +11,7 @@
 
 <!-- Intro  -->
 <h1 align="left">
-        <samp>&gt;👋 Hey There!, I am
+        <samp>👋 Hey There!, I am
                 <b><a target="_blank" href="#">Federico</a></b>
         </samp>
 </h1>
