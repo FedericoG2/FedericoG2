@@ -2,24 +2,24 @@
 
 
 
-<a href="https://komarev.com/ghpvc/?username=alsia">
+<a href="#">
   <img align="right" src="https://img.icons8.com/?size=50&id=hmjf7ms7Hb1h&format=png" alt="Profile visitor" />
 </a>
 
 
-[![wakatime](https://img.icons8.com/?size=26&id=11795&format=png)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
+![wakatime](https://img.icons8.com/?size=26&id=11795&format=png)
 
 <!-- Intro  -->
-<h3 align="center">
+<h1 align="center">
         <samp>&gt;👋 Hey There!, I am
                 <b><a target="_blank" href="https://alsiam.com">Federico</a></b>
         </samp>
-</h3>
+</h1>
 
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam"></a>
+    <a href="#"></a>
     <br>
     「 I am a Software Developer from  <b><a target="_blank" href="https://alsiam.com">Argentina</a></b> 」
     <br>
