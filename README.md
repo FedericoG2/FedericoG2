@@ -74,9 +74,9 @@
 
 
 <div style="background-color: #f0f0f0; border: 1px solid #ccc; padding: 10px; margin-bottom: 10px;">
-    <h3>Create Your First Ethereum Smart Contract With Remix IDE</h3>
-    <p>Learn how to get started with Ethereum smart contract development using Remix IDE.</p>
-    <a href="link-to-post" style="text-decoration: none; background-color: #007bff; color: #fff; padding: 5px 10px; border-radius: 5px;">Read More</a>
+    <h3>SafePassword</h3>
+    <p>A console application that generates secure passwords, allowing the user to customize the length and types of characters included in the password.</p>
+    <a href="https://github.com/FedericoG2/SafePassword" style="text-decoration: none; background-color: #007bff; color: #fff; padding: 5px 10px; border-radius: 5px;">Read More</a>
 </div>
 
 <div style="background-color: #f0f0f0; border: 1px solid #ccc; padding: 10px; margin-bottom: 10px;">
