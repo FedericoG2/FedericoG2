@@ -57,7 +57,7 @@
 
 <div style="display: flex; align-items: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="50" height="50">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_7BUSHtcFk76HbyVo2uHja9qLaowmxyzAKw&s" alt="dotnet" width="50" height="50">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlserver" width="50" height="50">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50">
@@ -80,9 +80,9 @@
 </div>
 
 <div style="background-color: #f0f0f0; border: 1px solid #ccc; padding: 10px; margin-bottom: 10px;">
-    <h3>Build a Blockchain-powered chat from your browser!</h3>
-    <p>Explore building a decentralized chat application using blockchain technology directly in your web browser.</p>
-    <a href="link-to-post" style="text-decoration: none; background-color: #007bff; color: #fff; padding: 5px 10px; border-radius: 5px;">Read More</a>
+    <h3>PersonalExpensesTracker</h3>
+    <p>A console application that maintains a detailed and organized record of personal expenses, enabling users to manage and analyze their finances efficiently..</p>
+    <a href="https://github.com/FedericoG2/PersonalExpensesTracker" style="text-decoration: none; background-color: #007bff; color: #fff; padding: 5px 10px; border-radius: 5px;">Read More</a>
 </div>
 
 <div style="background-color: #f0f0f0; border: 1px solid #ccc; padding: 10px; margin-bottom: 10px;">
