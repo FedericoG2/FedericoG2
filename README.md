@@ -7,10 +7,10 @@
 </a>
 
 
-![wakatime](https://img.icons8.com/?size=26&id=11795&format=png)
+
 
 <!-- Intro  -->
-<h1 align="center">
+<h1 align="left">
         <samp>&gt;👋 Hey There!, I am
                 <b><a target="_blank" href="https://alsiam.com">Federico</a></b>
         </samp>
