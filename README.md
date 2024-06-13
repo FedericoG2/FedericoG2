@@ -53,7 +53,7 @@
 <br/>
 <br/>
 
-## Use To Code
+# Use To Code
 
 <div style="display: flex; align-items: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50">
@@ -69,19 +69,48 @@
 
 
 <br/>
-<!-- 
-## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/itasks)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/urfolio)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/web-projects)
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam)
+
+# Some Proyects
+
+
+<div style="background-color: #f0f0f0; border: 1px solid #ccc; padding: 10px; margin-bottom: 10px;">
+    <h3>Create Your First Ethereum Smart Contract With Remix IDE</h3>
+    <p>Learn how to get started with Ethereum smart contract development using Remix IDE.</p>
+    <a href="link-to-post" style="text-decoration: none; background-color: #007bff; color: #fff; padding: 5px 10px; border-radius: 5px;">Read More</a>
+</div>
+
+<div style="background-color: #f0f0f0; border: 1px solid #ccc; padding: 10px; margin-bottom: 10px;">
+    <h3>Build a Blockchain-powered chat from your browser!</h3>
+    <p>Explore building a decentralized chat application using blockchain technology directly in your web browser.</p>
+    <a href="link-to-post" style="text-decoration: none; background-color: #007bff; color: #fff; padding: 5px 10px; border-radius: 5px;">Read More</a>
+</div>
+
+<div style="background-color: #f0f0f0; border: 1px solid #ccc; padding: 10px; margin-bottom: 10px;">
+    <h3>How to Create a Self-Updating README.md for Your GitHub Profile</h3>
+    <p>Guide on automating your GitHub profile README to keep it dynamically updated with your latest activities.</p>
+    <a href="link-to-post" style="text-decoration: none; background-color: #007bff; color: #fff; padding: 5px 10px; border-radius: 5px;">Read More</a>
+</div>
+
+<div style="background-color: #f0f0f0; border: 1px solid #ccc; padding: 10px; margin-bottom: 10px;">
+    <h3>A good tutorial to do your first steps with GitHub Actions</h3>
+    <p>Step-by-step tutorial to help beginners get started with GitHub Actions for continuous integration and deployment.</p>
+    <a href="link-to-post" style="text-decoration: none; background-color: #007bff; color: #fff; padding: 5px 10px; border-radius: 5px;">Read More</a>
+</div>
+
+<br/>
+<hr/>
+<br/>
+
+
+
+
 
 <p align="left">
-  <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/FedericoG2?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <br/>
 <hr/>
 <br/>
 
--->
+
