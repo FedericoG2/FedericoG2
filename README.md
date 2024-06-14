@@ -74,26 +74,18 @@
 <div style="background-color: #f0f0f0; border: 1px solid #ccc; padding: 10px; margin-bottom: 10px;">
     <h3>SafePassword</h3>
     <p>A console application that generates secure passwords, allowing the user to customize the length and types of characters included in the password.</p>
+    <p><strong>Console Application</strong></p>
     <a href="https://github.com/FedericoG2/SafePassword" style="text-decoration: none; background-color: #007bff; color: #fff; padding: 5px 10px; border-radius: 5px;">Read More</a>
 </div>
 
 <div style="background-color: #f0f0f0; border: 1px solid #ccc; padding: 10px; margin-bottom: 10px;">
     <h3>PersonalExpensesTracker</h3>
-    <p>A console application that maintains a detailed and organized record of personal expenses, enabling users to manage and analyze their finances efficiently..</p>
+    <p>A console application that maintains a detailed and organized record of personal expenses, enabling users to manage and analyze their finances efficiently.</p>
+    <p><strong>Console Application</strong></p>
     <a href="https://github.com/FedericoG2/PersonalExpensesTracker" style="text-decoration: none; background-color: #007bff; color: #fff; padding: 5px 10px; border-radius: 5px;">Read More</a>
 </div>
 
-<div style="background-color: #f0f0f0; border: 1px solid #ccc; padding: 10px; margin-bottom: 10px;">
-    <h3>How to Create a Self-Updating README.md for Your GitHub Profile</h3>
-    <p>Guide on automating your GitHub profile README to keep it dynamically updated with your latest activities.</p>
-    <a href="link-to-post" style="text-decoration: none; background-color: #007bff; color: #fff; padding: 5px 10px; border-radius: 5px;">Read More</a>
-</div>
 
-<div style="background-color: #f0f0f0; border: 1px solid #ccc; padding: 10px; margin-bottom: 10px;">
-    <h3>A good tutorial to do your first steps with GitHub Actions</h3>
-    <p>Step-by-step tutorial to help beginners get started with GitHub Actions for continuous integration and deployment.</p>
-    <a href="link-to-post" style="text-decoration: none; background-color: #007bff; color: #fff; padding: 5px 10px; border-radius: 5px;">Read More</a>
-</div>
 
 <br/>
 <hr/>
