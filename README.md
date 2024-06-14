@@ -84,6 +84,13 @@
     <p><strong>Console Application</strong></p>
     <a href="https://github.com/FedericoG2/PersonalExpensesTracker" style="text-decoration: none; background-color: #007bff; color: #fff; padding: 5px 10px; border-radius: 5px;">Read More</a>
 </div>
+<div style="background-color: #f0f0f0; border: 1px solid #ccc; padding: 10px; margin-bottom: 10px;">
+    <h3>Task Manager</h3>
+    <p>WinForms application for creating, filtering, and managing tasks with title, description, and status (active or completed).</p>
+    <p><strong>WinForms Application</strong></p>
+    <a href="https://github.com/FedericoG2/Task-Manager" style="text-decoration: none; background-color: #007bff; color: #fff; padding: 5px 10px; border-radius: 5px;">Read More</a>
+</div>
+
 
 
 
