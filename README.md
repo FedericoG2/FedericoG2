@@ -70,6 +70,12 @@
 
 # Some Proyects
 
+<div style="background-color: #f0f0f0; border: 1px solid #ccc; padding: 10px; margin-bottom: 10px;">
+    <h3>AuthList</h3>
+    <p>REST API developed in ASP.NET Core for secure user and product management, utilizing JWT (JSON Web Token) authentication to protect sensitive endpoints.</p>
+    <p><strong> Web API</strong></p>
+    <a href="https://github.com/FedericoG2/AuthList" style="text-decoration: none; background-color: #007bff; color: #fff; padding: 5px 10px; border-radius: 5px;">Read More</a>
+</div>
 
 <div style="background-color: #f0f0f0; border: 1px solid #ccc; padding: 10px; margin-bottom: 10px;">
     <h3>SafePassword</h3>
