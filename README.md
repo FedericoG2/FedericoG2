@@ -96,6 +96,13 @@
     <p><strong>WinForms Application</strong></p>
     <a href="https://github.com/FedericoG2/Task-Manager" style="text-decoration: none; background-color: #007bff; color: #fff; padding: 5px 10px; border-radius: 5px;">Read More</a>
 </div>
+<div style="background-color: #f0f0f0; border: 1px solid #ccc; padding: 10px; margin-bottom: 10px;">
+    <h3>Memory Game</h3>
+    <p>Memory game developed in C# using WinForms, featuring multiple levels with increasing difficulty and player statistics stored in SQLite.</p>
+    <p><strong>WinForms Application</strong></p>
+    <a href="https://github.com/FedericoG2/MemoryGame" style="text-decoration: none; background-color: #007bff; color: #fff; padding: 5px 10px; border-radius: 5px;">Read More</a>
+</div>
+
 
 
 
