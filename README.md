@@ -69,6 +69,12 @@
 <br/>
 
 # Some Proyects
+<div style="background-color: #f0f0f0; border: 1px solid #ccc; padding: 10px; margin-bottom: 10px;">
+    <h3>⭐ Zona Deportiva Telegram Bot</h3>
+    <p>Telegram bot developed in C# for Zona Deportiva, a sportswear store.</p>
+    <p><strong>Bot</strong></p>
+    <a href="https://github.com/FedericoG2/TelegramBot" style="text-decoration: none; background-color: #007bff; color: #fff; padding: 5px 10px; border-radius: 5px;">Read More</a>
+</div>
 
 <div style="background-color: #f0f0f0; border: 1px solid #ccc; padding: 10px; margin-bottom: 10px;">
     <h3>AuthList</h3>
